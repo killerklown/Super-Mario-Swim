@@ -4,10 +4,11 @@ Try to beat your hi-score in a endless water level that goes faster and faster..
   
 Available for: Windows, Mac OS X, Linux, HTML5.  
   
-#Controls
-Left click: swim  
-Right click: boost (super swim)  
+# Controls
+**Left click**: swim  
+**Right click**: boost (super swim)  
+**Escape**: quit game/back to main menu  
 
-#Disclaimer
+# Disclaimer
 Nintendo owns every Super Mario related asset and trademark. I just put it together and wrote the code.  
 This is just a fangame.
