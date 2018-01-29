@@ -1,6 +1,6 @@
 # Super-Mario-Swim
 Arcade single-player game inspired to Flappy Bird featuring Super Mario.  
-Try to beat your hi-score in a endless water level that goes faster and faster... untile you inevitably die :P \#oldschool
+Try to beat your hi-score in a endless water level that goes faster and faster... until you inevitably die :P \#oldschool
   
 Available for: Windows, Mac OS X, Linux, HTML5.  
   
