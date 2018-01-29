@@ -1,4 +1,4 @@
-# Super-Mario-Swim
+# Super Mario Swim
 Arcade single-player game inspired by Flappy Bird featuring Super Mario.  
 Try to beat your hi-score in an endless water level that goes faster and faster... until you inevitably die :P \#oldschool
   
